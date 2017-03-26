@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.ApplicationId=58d6d90589f5cf9e8900007b
+org.jboss.tools.openshift.ApplicationName=projectname1
+org.jboss.tools.openshift.Connection=https\://navid.vaziri%40outlook.com@openshift.redhat.com
+org.jboss.tools.openshift.Domain=icarespring
+org.jboss.tools.openshift.RemoteName=openshift

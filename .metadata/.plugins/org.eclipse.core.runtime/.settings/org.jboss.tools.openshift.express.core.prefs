@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.express.CONNECTION_NAMES=https\://navid.vaziri%40outlook.com@openshift.redhat.com
+org.jboss.tools.openshift.express.LAST_USERNAME=navid.vaziri@outlook.com
+org.jboss.tools.openshift.express.TAILFILEOPTIONS=58d6c9867628e1ad29000067|-f -n 100 */logs/*|58d6effc2d5271dfb8000191|-f -n 100 */logs/*|58d6d90589f5cf9e8900007b|-f -n 100 */logs/*
